@@ -1,0 +1,14 @@
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.AssemblyInfoInputs.cache
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.AssemblyInfo.cs
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.csproj.CoreCompileInputs.cache
+/home/riwip5-006/C#/POO_EJERCICIOS/bin/Debug/net8.0/POO_EJERCICIOS
+/home/riwip5-006/C#/POO_EJERCICIOS/bin/Debug/net8.0/POO_EJERCICIOS.deps.json
+/home/riwip5-006/C#/POO_EJERCICIOS/bin/Debug/net8.0/POO_EJERCICIOS.runtimeconfig.json
+/home/riwip5-006/C#/POO_EJERCICIOS/bin/Debug/net8.0/POO_EJERCICIOS.dll
+/home/riwip5-006/C#/POO_EJERCICIOS/bin/Debug/net8.0/POO_EJERCICIOS.pdb
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.dll
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/refint/POO_EJERCICIOS.dll
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.pdb
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/POO_EJERCICIOS.genruntimeconfig.cache
+/home/riwip5-006/C#/POO_EJERCICIOS/obj/Debug/net8.0/ref/POO_EJERCICIOS.dll
